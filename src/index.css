@@ -1,0 +1,17 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+}
+
+.BackgroundImg {
+  background-image: url("assets/BG.png");
+  background-repeat: no-repeat;
+  background-position: right 5% bottom 100%;
+  position: fixed;
+}
+
+button:hover {
+  color: white;
+  cursor: pointer;
+}

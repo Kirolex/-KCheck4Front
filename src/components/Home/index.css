@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+.TitreMain {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.BoxTitreMain {
+    text-align: center;
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.219);
+    border-radius: 8px;
+    font-size: 1rem;
+    border-right: 3px solid rgba(245, 245, 245, 0.781);
+    border-bottom: 3px solid rgba(245, 245, 245, 0.781);
+    display: inline-block;
+    padding: 0px 5px -0px 5px;
+}
+.PageMain {
+    width: 100%;
+    height: 100%;
+}
