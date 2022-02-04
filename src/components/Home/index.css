@@ -10,6 +10,9 @@ body {
 
 .BoxTitreMain {
     text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
     margin: 10px;
     background-color: rgba(255, 255, 255, 0.219);
     border-radius: 8px;
@@ -21,5 +24,4 @@ body {
 }
 .PageMain {
     width: 100%;
-    height: 100%;
 }

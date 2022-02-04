@@ -4,11 +4,10 @@ body {
   margin: auto;
 }
 
-.BackgroundImg {
+.Bodymain {
   background-image: url("assets/BG.png");
   background-repeat: no-repeat;
   background-position: right 5% bottom 100%;
-  position: fixed;
 }
 
 button:hover {

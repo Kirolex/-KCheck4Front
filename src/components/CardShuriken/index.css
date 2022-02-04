@@ -1,0 +1,16 @@
+.CardShuriken {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.219);
+    border-radius: 8px;
+    font-size: 1rem;
+    border-right: 1px solid rgba(245, 245, 245, 0.781);
+    border-left: 1px solid rgba(245, 245, 245, 0.781);
+    border-top: 1px solid rgba(245, 245, 245, 0.781);
+    border-bottom: 2px solid rgba(181, 165, 165, 0.781);
+    display: inline-block;
+    padding: 0px 5px -0px 5px;
+}
